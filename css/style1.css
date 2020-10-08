@@ -101,7 +101,7 @@ ul.top_menu {
   vertical-align: middle;
   display: table-cell;
 }
-.send_button {background-color: lightblue;
+.send_button {background-color: pink;
               margin: 0 auto;
               color: white;
               display: block;
@@ -109,3 +109,4 @@ ul.top_menu {
               width: 65px}
 .send_button:hover{background-color: red;
                   color: white;}
+.send_button:hover{background-color:skyblue; background-color:rgba(255,0,0,0.5);}
